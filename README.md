@@ -25,4 +25,4 @@ Uma calculadora minimalista desenvolvida em HTML, CSS e JavaScript, projetada pa
 
 Experimente agora mesmo e simplifique seus cálculos! Clique no botão abaixo para acessar:
 
-Clique [aqui](https://rs-hiago.github.io/Calculadora/) para acessar a calculadora.
+Clique [aqui](https://rs-hiago.github.io/Calculadora-Minimalista/) para acessar a calculadora.
